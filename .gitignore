@@ -1,0 +1,8 @@
+# platform specific
+.DS_Store
+
+# code editor
+.idea
+
+# wordpress
+wp-content/uploads
